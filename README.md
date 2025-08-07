@@ -66,10 +66,6 @@ Simulated in **Proteus**. Files included:
 - `Smart Temperature-Based Fan and LED Control System with LCD Display.DSN`
 - `Smart Temperature-Based Fan and LED Control System with LCD Display.PWI`
 
-![Circuit Design Screenshot](./assets/Screenshot1.png)
-![Simulation Running](./assets/Screenshot2.png)
-
----
 
 ## 📂 Project Structure
 
@@ -112,8 +108,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙋‍♀️ Author
 
-**Saloni Sharma**  
-Intern Project – Smart Embedded Systems  
+**Pritam Saha**  
+Smart Embedded Systems  
 Year: 2025
 
 ---
